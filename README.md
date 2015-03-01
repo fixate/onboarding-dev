@@ -25,6 +25,15 @@ Below you'll find a list of tools, processes, and general things we do and use a
     - tagged as 0.x.0 or x.0.0 depending on size if a major or minor release
 - [GistBox](https://app.gistboxapp.com/library/my-gists) for easy Github gist management
 
+## Useful Chrome Plugins
+
+- [SEO Site Tools](https://chrome.google.com/webstore/detail/seo-site-tools/diahigjngdnkdgajdbpjdeomopbpkjjc)
+- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
+- [Wappalyzer](https://wappalyzer.com/?pk_campaign=chrome&pk_kwd=context)
+- [Web Developer](http://chrispederick.com/work/web-developer/)
+- [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj)
+- [Pendule](https://chrome.google.com/webstore/detail/pendule/gbkffbkamcejhkcaocmkdeiiccpmjfdi)
+
 ## Editing
 
 - [Sublime Text](http://www.sublimetext.com/)
@@ -44,6 +53,9 @@ Below you'll find a list of tools, processes, and general things we do and use a
   - [Harry Robert's Blog](http://csswizardry.com)
   - [BEM Methodology](https://en.bem.info/method/)
   - [SMACSS](https://smacss.com/)
+  - [Fixate SCSS Framework](https://github.com/larrybotha/styleguide/tree/inuit)
+  - [InuitCSS](http://inuitcss.com/)
+- [KSS Styleguide](https://github.com/fixate/kss-boilerplate) for living styleguides and abstraction of site elements
 
 ## Javascript
 
@@ -68,11 +80,20 @@ Below you'll find a list of tools, processes, and general things we do and use a
 
 - [Adobe Illustrator Basics](https://www.udemy.com/learn-adobe-illustrator-from-scratch/)
 - images to always be on artboards with even widths and heights
-  - scaling is better on even numbers
+  - scaling is better with even numbers
 - artboards to always be on whole number pixels
-  - reduces anti-aliasing on file save
+  - reduces anti-aliasing for saved files
 - photographs always saved as jpeg / jpg
   - [JpegMini](http://jpegmini.com) for optimisation
 - images with fewer than 1 million colours and/or transparency saved as png 24
 - images with fewer than 256 colours and no transparency saved as png 8
-- pngs and svgs minified via gulp tasks
+- pngs and svgs crunched via gulp tasks
+
+## Site Performance
+
+- [GTmetrix](http://gtmetrix.com/)
+- [WebPageTest](http://www.webpagetest.org/)
+
+## External Site Security Analysis
+
+- [Sucuri](http://sitecheck.sucuri.net/)

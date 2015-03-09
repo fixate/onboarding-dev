@@ -97,8 +97,10 @@ Below you'll find a list of tools, processes, and general things we do and use a
 ## External Site Security Analysis
 
 - [Sucuri](http://sitecheck.sucuri.net/)
+- [MX Toolbox](http://mxtoolbox.com/SuperTool.aspx)
 
 ## Utilities
 
 - [snag.gy](http://snag.gy) for sharing screenshots / images
 - [codeshare.io](http://www.codeshare.io/) for sharing snippets of code in a live editor
+- [verify-email.org](http://verify-email.org/) for validating if an email address exists

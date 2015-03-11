@@ -24,6 +24,9 @@ Below you'll find a list of tools, processes, and general things we do and use a
     - are branched from develop, and merged into both master and develop
     - tagged as 0.x.0 or x.0.0 depending on size if a major or minor release
 - [GistBox](https://app.gistboxapp.com/library/my-gists) for easy Github gist management
+- Git GUIs; essential for fast micro commits
+  - Mac: [SourceTree](http://www.sourcetreeapp.com/)
+  - Linux: [Git Cola](https://git-cola.github.io/)
 
 ## Useful Chrome Plugins
 

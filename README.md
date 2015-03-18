@@ -13,6 +13,7 @@ Below you'll find a list of tools, processes, and general things we do and use a
 - Intro to [Git](https://www.codeschool.com/courses/try-git)
 - [BitBucket](http://bitbucket.org) for private repos
 - [Git Flow](http://danielkummer.github.io/git-flow-cheatsheet/) as our git branching model
+  - [Fixate's Git Glow Protocol](https://github.com/fixate/git-flow-protocol)
   - work is branched off of develop
   - feature branches are for features that are being worked on
     - features should be small portions of work, usually no more than 2 days of work at a time

@@ -45,7 +45,7 @@ Below you'll find a list of tools, processes, and general things we do and use a
 
 ## Task Automation
 
-- [Gulp](gulpjs.com)
+- [Gulp](http://gulpjs.com)
   - [Fixate's ProcessWire gulpfile](https://github.com/fixate/generator-fixate-pw/blob/develop/app/templates/_gulpfile.coffee)
 - [Yeoman Generators](http://yeoman.io/generators/) for quickly generating projects
   - used to generate [ProcessWire pojects](https://github.com/fixate/generator-fixate-pw/)
@@ -71,7 +71,7 @@ Below you'll find a list of tools, processes, and general things we do and use a
 ## CMS
 
 - [ProcessWire](http://processwire.com)
-
+g
 ## Favicons
 
 - [X-Icon Editor](http://www.xiconeditor.com/) for multi-layered favicons that are crisp on all devices

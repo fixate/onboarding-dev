@@ -107,4 +107,5 @@ g
 
 - [snag.gy](http://snag.gy) for sharing screenshots / images
 - [codeshare.io](http://www.codeshare.io/) for sharing snippets of code in a live editor
+- [codepad.org](http://codepad.org) for sharing of non-editable code
 - [verify-email.org](http://verify-email.org/) for validating if an email address exists

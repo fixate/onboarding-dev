@@ -79,6 +79,7 @@ g
 ## Font Icons
 
 - [IcoMoon](http://icomoon.com/app) for generating icon files from raw vector images
+- [Woff to Woff2](https://everythingfonts.com/woff-to-woff2) for converting woff to woff2
 
 ## Cutting Up Designs
 

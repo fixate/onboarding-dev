@@ -67,6 +67,7 @@ Below you'll find a list of tools, processes, and general things we do and use a
 - [Javascript Is Sexy](javascriptissexy.com)
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [Javascript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Essential Javascript Reading / Viewing](https://github.com/ericelliott/essential-javascript-links)
 
 ## CMS
 
